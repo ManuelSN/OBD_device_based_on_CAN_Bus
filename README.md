@@ -8,7 +8,7 @@
 
 ## Installation
 
-To install it only need to download compressed files from the repository and import the project directly in Code Composer Studio.
+To install it only need to download compressed files from the repository and import the project directly in **Code Composer Studio**.
 
 ## Usage 
 
@@ -40,7 +40,7 @@ If you have any ideas to improve this project, welcome!
 
 ## Versioned
 
-In order to contribute in this project , the versions have to be based on [SemVer](https://semver.org).
+The versions have to be based on [SemVer](https://semver.org) in order to contribute in this project , 
 
 ## Authors of used libraries 
 
