@@ -1,7 +1,7 @@
 # OBD device based on CAN Bus :red_car:  
 
 
-[![Generic badge](https://img.shields.io/badge/v1.0.0-PASS-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/v1.0.0-PASS-<COLOR>.svg)](https://shields.io/).       [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://github.com/ManuelSN/OBD_device_based_on_CAN_Bus/commit/) 
 
 
 **OBD device** is a C programmed project for communicating with ECUs from a car. This has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model.
@@ -40,7 +40,7 @@ If you have any ideas to improve this project, welcome!
 
 ## Versioned
 
-The versions have to be based on [SemVer](https://semver.org) in order to contribute in this project , 
+The versions have to be based on [SemVer](https://semver.org) in order to contribute in this project.
 
 ## Authors of used libraries 
 
@@ -53,6 +53,7 @@ Two libraries has been included on this project:
 ## License
 
 ![Image](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)
+
 This work (software and hardware) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Project Status
