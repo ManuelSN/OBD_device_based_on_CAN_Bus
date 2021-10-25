@@ -1,4 +1,4 @@
-# OBD device based on CAN Bus :red_car:  
+# OBD device based on CAN Bus :red_car: :dash:
 
 
 [![Generic badge](https://img.shields.io/badge/v1.0.0-PASS-<COLOR>.svg)](https://shields.io/) 
