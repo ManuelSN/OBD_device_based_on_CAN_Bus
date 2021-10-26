@@ -1,8 +1,7 @@
 # OBD device based on CAN Bus :red_car: :dash:
 
 
-[![Generic badge](https://img.shields.io/badge/v1.0.0-PASS-<COLOR>.svg)](https://shields.io/) 
-
+[![Generic badge](https://img.shields.io/badge/Release-v1.0.0-<COLOR>.svg)](https://shields.io/)  
 
 **OBD device** is a C programmed project for communicating with ECUs from a car. This has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model.
 
