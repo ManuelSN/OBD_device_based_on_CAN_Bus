@@ -59,3 +59,5 @@ This work (software and hardware) is licensed under the Creative Commons Attribu
 ## Project Status
 
 This is a Final Year Project that I have recently finished so it will be on hold for a while (I will take a break to embark on other projects). However, I am looking forward to working on it in the future! 
+
+If you would like to get more information about the project or contribute, please visit the [wiki](https://github.com/ManuelSN/OBD_device_based_on_CAN_Bus/wiki).
