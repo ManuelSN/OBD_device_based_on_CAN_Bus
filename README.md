@@ -7,7 +7,7 @@
 
 ## Installation
 
-To install it only need to download compressed files from the repository and import the project directly in **Code Composer Studio**.
+To install it only need to download the files from the repository and import the project directly in **Code Composer Studio**.
 
 ## Usage 
 
